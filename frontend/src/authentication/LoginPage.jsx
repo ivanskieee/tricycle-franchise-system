@@ -18,7 +18,7 @@ import {
   Users,
 } from "lucide-react";
 import bgImage from "../assets/capitol-spc.jpg";
-import logoImage from "../assets/SPC-LOGO.png";
+import logoImage from "../assets/alaminos-logo.png";
 import DCSILOGO from "../assets/dcsi-logo-no-background.png";
 
 

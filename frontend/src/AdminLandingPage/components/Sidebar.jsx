@@ -11,7 +11,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 import clsx from "clsx";
-import logo from "../../assets/SPC-LOGO.png";
+import logo from "../../assets/alaminos-logo.png";
 
 const nav = [
   {
